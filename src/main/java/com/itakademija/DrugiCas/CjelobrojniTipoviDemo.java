@@ -1,4 +1,4 @@
-package com.itakademija;
+package com.itakademija.DrugiCas;
 
 public class CjelobrojniTipoviDemo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.itakademija;
+package com.itakademija.DrugiCas;
 
 public class CharDemo {
     public static void main(String[] args) {
